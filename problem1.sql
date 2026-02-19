@@ -1,1 +1,1 @@
-CREATE VIEW steveview AS SELECT * FROM site_user WHERE first_name = 'Steve' AND last_name = 'Jones';
+CREATE VIEW steveview AS SELECT * FROM site_user WHERE firstname = 'Steve' AND lastname = 'Jones';
